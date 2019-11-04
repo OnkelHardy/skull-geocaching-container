@@ -61,12 +61,4 @@ Greetings Hardy
 
 
 
-Print parameters: <br />
-40% filling density <br />
-0,2mm layer height <br />
-4 vertical contours <br />
-4 horizontal contour sleeves <br />
-80mm/s Print speed
 
-With a successful print I would be very happy about a Like! <br />
-Greetings Hardy
